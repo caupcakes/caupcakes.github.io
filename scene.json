@@ -503,7 +503,7 @@
                         "fontSize": 100,
                         "lineHeight": 1.5,
                         "letterSpacing": 1,
-                        "fontFamily": "helvetiker_regular.typeface",
+                        "fontFamily": "helvetiker_regular",
                         "textTransform": 1,
                         "horizontalAlignment": 1,
                         "verticalAlignment": 1,
@@ -528,7 +528,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "W",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -834,7 +834,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "e",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -1316,7 +1316,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "l",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -1469,7 +1469,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "c",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -1920,7 +1920,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "o",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -2352,7 +2352,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "m",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -2961,7 +2961,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "e",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -3444,7 +3444,7 @@
                                             "type": "CharacterGeometry",
                                             "parameters": {
                                                 "char": "!",
-                                                "fontFamily": "helvetiker_regular.typeface",
+                                                "fontFamily": "helvetiker_regular",
                                                 "letterSpacing": 1,
                                                 "fontSize": 100,
                                                 "lod": 16,
@@ -3771,7 +3771,7 @@
                             "message": [{
                                     "char": "W",
                                     "originalChar": "W",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3779,7 +3779,7 @@
                                 {
                                     "char": "e",
                                     "originalChar": "e",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3787,7 +3787,7 @@
                                 {
                                     "char": "l",
                                     "originalChar": "l",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3795,7 +3795,7 @@
                                 {
                                     "char": "c",
                                     "originalChar": "c",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3803,7 +3803,7 @@
                                 {
                                     "char": "o",
                                     "originalChar": "o",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3811,7 +3811,7 @@
                                 {
                                     "char": "m",
                                     "originalChar": "m",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3819,7 +3819,7 @@
                                 {
                                     "char": "e",
                                     "originalChar": "e",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
@@ -3827,7 +3827,7 @@
                                 {
                                     "char": "!",
                                     "originalChar": "!",
-                                    "fontFamily": "helvetiker_regular.typeface",
+                                    "fontFamily": "helvetiker_regular",
                                     "letterSpacing": 1,
                                     "fontSize": 100,
                                     "LOD": 16
